@@ -1,2 +1,1 @@
-# FruitesDataReact
- 
+The website Shows Nutritional Values of Fruits in the database.
